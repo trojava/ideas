@@ -1,2 +1,2 @@
-# ideas
-Repository for ideas
+# Collection of my ideas
+This repository contains ideas.
